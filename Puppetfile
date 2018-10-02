@@ -1,3 +1,3 @@
 moduledir 'thirdparty'
 
-mod 'torrancew/cron', '~> 0.2'
+mod 'torrancew/cron', '0.2.1'
